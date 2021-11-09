@@ -1,2 +1,1 @@
-# next-js-intro
-introduction to next.js
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).# nextjs-blog-intro
